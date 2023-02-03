@@ -35,12 +35,12 @@
  * @param {string} jobTitle - student.
  * @param {string} specialization - Building full-fledged web applications.
  * @param {string} interests - AI, writing & problem-solving.
- * @param {string} hobbies - Climbing, reading, triathlons & playing music.
- * @param {string} education - BSc CompSci, Lancaster University.
+ * @param {string} hobbies - playing football,video games & playing music.
+ * @param {string} education - B TECH CSE at College of engineering Chengannur.
  * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out.
  * @param {string} stength - Resolute.
  * @param {string} weakness - Shyness.
- * @param {Date} birthday - 14th of December 2000.
+ * @param {Date} birthday - 1'st of August 2004.
  * @throws {Punch} To any and all bugs.
  * @returns {Object} Austinae.
  */

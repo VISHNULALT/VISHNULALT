@@ -184,8 +184,8 @@ If you have any questions about web development, writing mistake-free documentat
 
 **<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
 
-<blockquote>“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-<br><strong>– Elon Musk</strong></blockquote>
+<blockquote>"There is no such feeling as sucking peoples dick"
+<br><strong>– Vishnu lal</strong></blockquote>
 
   </td>
   </tr>

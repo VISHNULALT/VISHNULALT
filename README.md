@@ -184,8 +184,6 @@ If you have any questions about web development, writing mistake-free documentat
 
 **<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
 
-<blockquote>"There is no such feeling as sucking peoples dick"
-<br><strong>– Vishnu lal</strong></blockquote>
 
   </td>
   </tr>
